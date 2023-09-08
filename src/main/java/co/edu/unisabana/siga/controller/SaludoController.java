@@ -1,4 +1,4 @@
-/*package co.edu.unisabana.siga.controller;
+package co.edu.unisabana.siga.controller;
 
 import co.edu.unisabana.siga.bd.Estudiante;
 import co.edu.unisabana.siga.controller.dto.Respuesta;
@@ -113,4 +113,4 @@ public class SaludoController {
         }
         return null;
     }
-}*/
+}
